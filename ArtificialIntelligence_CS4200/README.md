@@ -14,9 +14,7 @@ This project implements the A* search algorithm to solve the 8-puzzle problem us
 
 This project focuses on solving the N-Queens problem, where the goal is to place N queens on an 8×8 chessboard such that no two queens attack each other. Two algorithms were implemented and compared: the straightforward Steepest-Ascent Hill Climbing and the Min-Conflicts algorithm.
 ### Features:
--Two Algorithm Implementations:
-  *Steepest-Ascent Hill Climbing: A local search algorithm that selects the next state with the steepest improvement.
-  *Min-Conflicts: A heuristic repair algorithm that minimizes the number of conflicts in each move.
+-Two Algorithm Implementations: Steepest-Ascent Hill Climbing: A local search algorithm that selects the next state with the steepest improvement. Min-Conflicts: A heuristic repair algorithm that minimizes the number of conflicts in each move.
 - Users can select which algorithm to use for solving the puzzle at runtime.
 
 ## 3. Tic-Tac-Toe Game (Project 3)

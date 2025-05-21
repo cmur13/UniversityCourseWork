@@ -1,0 +1,142 @@
+Choose an option:
+1 - Hill climbing algorithm
+2 - Min-Conflicts Algorithm
+3 - Exit
+1
+Running steepest hill climbing algorithm...
+|_||_||_||Q||_||_||_||_|
+|_||_||_||_||_||_||Q||_|
+|_||_||_||_||Q||_||_||_|
+|_||_||Q||_||_||_||_||_|
+|Q||_||_||_||_||_||_||_|
+|_||_||_||_||_||Q||_||_|
+|_||_||_||_||_||_||_||Q|
+|_||Q||_||_||_||_||_||_|
+
+Trials: 1000
+Success Rate: 14.7%
+Average time (ms): -1.718865961845E15
+
+Would you like to continue?
+1 - Yes
+2 - No
+
+1
+Choose an option:
+1 - Hill climbing algorithm
+2 - Min-Conflicts Algorithm
+3 - Exit
+1
+
+Running steepest hill climbing algorithm...
+|_||_||_||Q||_||_||_||_|
+|_||_||_||_||_||Q||_||_|
+|Q||_||_||_||_||_||_||_|
+|_||_||_||_||Q||_||_||_|
+|_||Q||_||_||_||_||_||_|
+|_||_||_||_||_||_||_||Q|
+|_||_||Q||_||_||_||_||_|
+|_||_||_||_||_||_||Q||_|
+
+Trials: 1000
+Success Rate: 15.5%
+Average time (ms): -1.718866034265E15
+
+Would you like to continue?
+1 - Yes
+2 - No
+
+1
+Choose an option:
+1 - Hill climbing algorithm
+2 - Min-Conflicts Algorithm
+3 - Exit
+1
+Running steepest hill climbing algorithm...
+|Q||_||_||_||_||_||_||_|
+|_||_||_||_||Q||_||_||_|
+|_||_||_||_||_||_||_||Q|
+|_||_||_||_||_||Q||_||_|
+|_||_||Q||_||_||_||_||_|
+|_||_||_||_||_||_||Q||_|
+|_||Q||_||_||_||_||_||_|
+|_||_||_||Q||_||_||_||_|
+
+Trials: 1000
+Success Rate: 14.7%
+Average time (ms): -1.718866070602E15
+
+Would you like to continue?
+1 - Yes
+2 - No
+
+1
+
+Choose an option:
+1 - Hill climbing algorithm
+2 - Min-Conflicts Algorithm
+3 - Exit
+2
+
+|_||_||_||Q||_||_||_||_|
+|_||_||_||_||_||_||_||Q|
+|Q||_||_||_||_||_||_||_|
+|_||_||Q||_||_||_||_||_|
+|_||_||_||_||_||Q||_||_|
+|_||Q||_||_||_||_||_||_|
+|_||_||_||_||_||_||Q||_|
+|_||_||_||_||Q||_||_||_|
+
+Trials: 1000
+Success Rate: 93.2%
+Average time (ms): -1.718866301546E15
+
+Would you like to continue?
+1 - Yes
+2 - No
+
+1
+
+Choose an option:
+1 - Hill climbing algorithm
+2 - Min-Conflicts Algorithm
+3 - Exit
+2
+
+|_||_||Q||_||_||_||_||_|
+|_||_||_||_||_||Q||_||_|
+|_||Q||_||_||_||_||_||_|
+|_||_||_||_||_||_||Q||_|
+|Q||_||_||_||_||_||_||_|
+|_||_||_||Q||_||_||_||_|
+|_||_||_||_||_||_||_||Q|
+|_||_||_||_||Q||_||_||_|
+
+Trials: 1000
+Success Rate: 92.9%
+Average time (ms): -1.718866092434E15
+
+Would you like to continue?
+1 - Yes
+2 - No
+
+1
+
+Choose an option:
+1 - Hill climbing algorithm
+2 - Min-Conflicts Algorithm
+3 - Exit
+2
+
+|_||_||_||_||Q||_||_||_|
+|_||_||_||_||_||_||Q||_|
+|_||Q||_||_||_||_||_||_|
+|_||_||_||Q||_||_||_||_|
+|_||_||_||_||_||_||_||Q|
+|Q||_||_||_||_||_||_||_|
+|_||_||Q||_||_||_||_||_|
+|_||_||_||_||_||Q||_||_|
+
+Trials: 1000
+Success Rate: 94.6%
+Average time (ms): -1.718866101562E15
